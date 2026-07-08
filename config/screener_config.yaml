@@ -1,0 +1,29 @@
+roe_min: 15
+
+debt_to_equity_max: 1
+
+fcf_min: 0
+
+revenue_cagr_min: 10
+
+pat_cagr_min: 10
+
+opm_min: 15
+
+pe_max: 20
+
+pb_max: 3
+
+dividend_yield_min: 1
+
+icr_min: 2
+
+market_cap_min: 0
+
+net_profit_min: 0
+
+eps_cagr_min: 10
+
+asset_turnover_min: 1
+
+sales_min: 0
